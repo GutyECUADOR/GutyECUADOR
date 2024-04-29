@@ -1,6 +1,6 @@
 ### console.log('Hola 👋, Mi nombre es José Gutiérrez');
 #### Soy un Web Developer Ecuatoriano 🥳 🇪🇨
-Realizo proyectos web como freelancer para empresas pequeñas y medianas , principalmente utilizo JavaScript & PHP para poner en marcha proyectos desde 0. 
+Soy un desarrollador full stack graduado recientemente como máster en desarrollo de software e ingeniería informática. Trabajo desde hace más de 5 años en diversos proyectos de desarrollo de software. Durante mi experiencia laboral. He tenido la oportunidad de desarrollar y brindar consultoría a distintas empresas haciendo uso de diversas tecnologías como SQL, PHP, C# y JavaScript. Me encuentro actualmente en la búsqueda de nuevos retos que me permitan perfeccionar y adquirir habilidades, que contribuyan al desarrollo de mi carrera y me permitan estar a la vanguardia de las tecnologías utilizadas en el mercado laboral.
 
 Habilidades: PHP/ VUE JS / REACT / JS / HTML / CSS / MySQL / SQL Server
 
